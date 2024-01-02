@@ -1,6 +1,6 @@
 # Spatial-downscaling-400m
 
-This repository is a copy of data and python scripts that accompany the following peer-reviewed publication:
+This repository is a copy of data and the python script (`Downscaling_workflow.ipynb`) that accompany the following peer-reviewed publication:
 
 Mital, U., Dwivedi, D., Brown, J. B., and Steefel, C. I.: Downscaled hyper-resolution (400 m) gridded datasets of daily precipitation and temperature (2008–2019) for the East–Taylor subbasin (western United States), Earth Syst. Sci. Data, 14, 4949–4966, https://doi.org/10.5194/essd-14-4949-2022, 2022.
 
